@@ -52,6 +52,4 @@ public:
         while (C.size() > 1 && C.back() == 0) C.pop_back();
         return C;
     }
-
-
 };

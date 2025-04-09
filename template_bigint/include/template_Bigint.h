@@ -17,4 +17,5 @@ public:
 
     vector<int> BigintGetVector();
 };
+//记得反向输出
 
