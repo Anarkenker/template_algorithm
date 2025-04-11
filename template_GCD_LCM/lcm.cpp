@@ -12,5 +12,8 @@ ll lcm(ll a, ll b){
 }
 
 int main(){
-
+    ll a, b;
+    cin >> a >> b;
+    cout << lcm(a, b) << endl;
+    return 0;
 }
